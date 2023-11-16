@@ -12,8 +12,8 @@ body {
 .pin {
   z-index: 10;
   position: fixed;
-  height: 75%;
-  width: 153%;
+  height: 75vh;
+  width: 153vw;
   object-fit: cover;
   transform: rotate(-20deg);
   transform-origin: 1115px 460px;
